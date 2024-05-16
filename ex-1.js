@@ -6,7 +6,7 @@ let newScores = [];
 for (let score of scores) {
   //   console.log(score);
   score = score - 10;
-  console.log(score);
+  //   console.log(score);
   newScores.push(score);
 }
 
